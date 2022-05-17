@@ -1,5 +1,5 @@
 # Task List
-**A simple todo list made with vanilla JavaScript and Materialize CSS**
+**A simple todo list made with vanilla JavaScript DOM Manipulation and Materialize CSS**
 
 User can add a new task by giving a task name and pressing the add button.
 
